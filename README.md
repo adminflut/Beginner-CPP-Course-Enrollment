@@ -1,4 +1,4 @@
-# Data Structures and Algorithms in C++ - Beginners
+# Beginners C++ Course
 
 ### COURSE METHODOLGY
 
@@ -36,6 +36,6 @@ There are just 2 Rules
 - If you miss a deadline, you will be warned once.
 - If you miss 3 deadlines consecutively, you will be expelled from the course. (VERY STRICT FOR THIS)
 
-#### [See the course content here](https://github.com/Girl-Code-It/Data-Structures-Algorithms-in-CPP-Course-Enrollment/blob/master/CourseContent.md)
+#### [See the course content here](https://github.com/Girl-Code-It/Beginner-CPP-Course-Enrollment/blob/master/CourseContent.md)
 
-#### [To enroll in this course, Refer this](https://github.com/Girl-Code-It/Data-Structures-Algorithms-in-CPP-Course-Enrollment/blob/master/Assignment.md)
+#### [To enroll in this course, Refer this](https://github.com/Girl-Code-It/Beginner-CPP-Course-Enrollment/blob/master/Assignment.md)
