@@ -11,7 +11,6 @@
 - Searching Algorithms
 - Recursion
 - Sorting Algorithms
-- Backtracking
 - Linked Lists
 - Stacks and Queues
 - Trees
@@ -20,13 +19,7 @@
 - Hashmaps
 - Priority Queues
 - Dynamic Programming
-- String Matching Algorithms
 - Graphs
-- Range Queries
-  - Segment Tree  
-  - Lazy Segment Tree
-  - Square Root Decomposition 
-  - Sparse Table
 - Object-Oriented Programming
 
 
