@@ -1,3 +1,7 @@
+- Basics of C++
+- Programming Fundamentals
+- Patterns Practice
+- Functions
 - Arrays
 - Multidimensional Arrays
 - Time and Space Complexity
