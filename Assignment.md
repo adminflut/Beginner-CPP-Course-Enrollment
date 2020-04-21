@@ -1,27 +1,33 @@
-### Girl Code IT - Data Structures and Algorithms Course Assignment
+### Girl Code IT - Beginners C++ Course Assignment
 
 #### What is it?
-You will solve a few questions from the topic Arrays on [hackerearth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/)
+You will solve a few questions on [codesdope](https://www.codesdope.com/cpp-introduction/)
 The completion and submission of this assignment is an entry test to join this course and will work as a filter for us to have only sincere srudents in our course. 
 
+### EXCERCISE
 
-### EXRECISE
-#### Topic - 1D ARRAYS
-5 Easy Problems
-- [Pairs Having Similar Elements
-](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pairs-having-similar-element-eed098aa/)
-- [hamiltonian-and-lagrangian](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/hamiltonian-and-lagrangian/)
-- [polygon-possible](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/polygon-possible/)
-- [charges-repel](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/charges-repel/)
-- [monk-and-power-of-time](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-power-of-time/)
+#### Learning Resourse
+- [LearningLad](https://www.youtube.com/watch?v=SQHREey_Yuc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C&index=2&t=0s) Watch first 21 videos
+- [Geeks For Geeks](https://www.geeksforgeeks.org/c-plus-plus/?ref=leftbar) Read first 11 topics under Basics section
+- [CodesDope](https://www.codesdope.com/cpp-introduction/) Read first 8 topics i.e till Controlling Loops
 
-3 Medium Problems
-- [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/)
-- [prasun-the-detective](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/prasun-the-detective-77f90f8f/)
-- [can-you-solve-it](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/can-you-solve-it/)
+#### Task
+- [Let's Start](https://www.codesdope.com/practice/cpp-lets-start/)
 
-#### Haven't worked with arrays before ? How do I solve this assignment ?
-If this is the case, you should probably enroll for the basics course whose details can be found here - [Basic C++ Course](https://github.com/Girl-Code-It/Beginner-CPP-Course-Enrollment)
+Last 4 Problems
+- [Variables and Literals](https://www.codesdope.com/practice/cpp-variables-and-literals/)
+
+Problem No. 4, 8, 10, 11
+- [Operators](https://www.codesdope.com/practice/cpp-operators/)
+
+Last 4 Problems
+- [Decide If-Else](https://www.codesdope.com/practice/cpp-decide-ifelse/)
+
+Last 2 Problems
+- [Loops](https://www.codesdope.com/practice/cpp-loops/)
+
+#### Already know the basics? Wanna learn more?
+If this is the case, you should probably enroll for the advance course whose details can be found here - [Advance C++ Course](https://github.com/Girl-Code-It/Data-Structures-Algorithms-in-CPP-Course-Enrollment)
 
 ### Submitting your assignment
 - You shall upload all your solutions to a git repository, and provide it's link in this [form]().
