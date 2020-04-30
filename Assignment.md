@@ -6,6 +6,8 @@ The completion and submission of this assignment is an entry test to join this c
 
 ### EXCERCISE
 
+NOTE - If you know the basics, you can attempt the task straightaway, else go through the learning resources.
+
 #### Learning Resourse
 - [LearningLad](https://www.youtube.com/watch?v=SQHREey_Yuc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C&index=2&t=0s): Watch first 21 videos
 - [Geeks For Geeks](https://www.geeksforgeeks.org/c-plus-plus/?ref=leftbar): Read first 11 topics under Basics section
@@ -14,11 +16,11 @@ The completion and submission of this assignment is an entry test to join this c
 #### Task
 - [Let's Start](https://www.codesdope.com/practice/cpp-lets-start/)
 
-- Last 4 Problems from [Variables and Literals](https://www.codesdope.com/practice/cpp-variables-and-literals/)
+- Last 2 Problems from [Variables and Literals](https://www.codesdope.com/practice/cpp-variables-and-literals/)
 
-- Problem No. 4, 8, 10, 11 from [Operators](https://www.codesdope.com/practice/cpp-operators/)
+- Problem No. 8, 11 from [Operators](https://www.codesdope.com/practice/cpp-operators/)
 
-- Last 4 Problems from [Decide If-Else](https://www.codesdope.com/practice/cpp-decide-ifelse/)
+- Last 2 Problems from [Decide If-Else](https://www.codesdope.com/practice/cpp-decide-ifelse/)
 
 - Last 2 Problems from [Loops](https://www.codesdope.com/practice/cpp-loops/)
 
